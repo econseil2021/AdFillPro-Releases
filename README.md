@@ -29,12 +29,13 @@ AdFillPro est un outil puissant et facile à utiliser qui vous aide à gérer l'
 
 ## Installation
 
-1. Téléchargez le fichier `app-release.apk`
+1. Téléchargez le fichier `AdFill-v1.9.3.apk` (dernière version)
 2. Ouvrez le fichier sur votre téléphone Android
 3. Si demandé, activez l'installation depuis des sources inconnues
 4. Suivez les instructions à l'écran pour terminer l'installation
 
 > **Version Android requise** : Android 9 (API 28) ou plus récent
+> **Version actuelle** : v1.9.3
 
 ---
 
